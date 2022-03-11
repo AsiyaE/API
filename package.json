@@ -6,7 +6,10 @@
   "scripts": {
     "start": "nodemon src/index.js"
   },
-
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsiyaE/API.git"
+  },
   "author": "Asiya E.",
   "license": "MIT",
   "dependencies": {
