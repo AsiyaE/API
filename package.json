@@ -1,0 +1,18 @@
+{
+  "name": "api_promo",
+  "version": "1.0.0",
+  "description": "RESTFul API is a service for conducting promotions and prize draws.",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+
+  "author": "Asiya E.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

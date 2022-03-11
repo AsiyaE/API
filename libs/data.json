@@ -1,0 +1,15 @@
+[{
+	"id": 1,
+	"name": "1+1",
+	"description": "two products",
+	"prizes":[],
+	"participants":[]
+},
+{
+	"id": 2,
+	"name": "30%",
+	"description": "bla",
+	"prizes":[],
+	"participants":[]
+}
+]
